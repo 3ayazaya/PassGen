@@ -8,7 +8,8 @@ import sys
 
 max_count_default = 1000000
 max_count_main_default = 1000
-
+# Comment
+impo
 class PassGen:
 
     def __init__(self, max_count=max_count_default, max_count_main=max_count_main_default, silent=False):
